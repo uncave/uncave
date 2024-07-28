@@ -6,7 +6,3 @@
     <a href="https://uncave.github.io/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
     <a href="https://discord.com/users/1114265276071026788"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-
----
-
-### About me
