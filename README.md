@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="./images/banner.gif" alt="Banner" style="border-radius: 15px;">
-    <br>
+    <img src="./images/banner.gif" alt="Banner" style="border-radius: 15px; display: block; margin-bottom: 10px;">
     <a href="https://twitter.com/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://procursus.social/"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
     <a href="https://uncave.github.io/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
